@@ -1,0 +1,17 @@
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\bin\Debug\net6.0-windows\MaintainanceKit.exe
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\bin\Debug\net6.0-windows\MaintainanceKit.deps.json
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\bin\Debug\net6.0-windows\MaintainanceKit.runtimeconfig.json
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\bin\Debug\net6.0-windows\MaintainanceKit.dll
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\bin\Debug\net6.0-windows\MaintainanceKit.pdb
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.csproj.AssemblyReference.cache
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.Form1.resources
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.csproj.GenerateResource.cache
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.AssemblyInfoInputs.cache
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.AssemblyInfo.cs
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.csproj.CoreCompileInputs.cache
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.dll
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\refint\MaintainanceKit.dll
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.pdb
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\MaintainanceKit.genruntimeconfig.cache
+C:\Users\xNascimentH\source\repos\MaintainanceKit\MaintainanceKit\obj\Debug\net6.0-windows\ref\MaintainanceKit.dll

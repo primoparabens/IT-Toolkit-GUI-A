@@ -1,0 +1,13 @@
+
+        private void cbx_debug1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cbx_debug1.Checked)
+            {
+                rtf_debug1.Visible = true;
+            }
+            else
+            {
+                rtf_debug1.Visible = false;
+            }
+        }
+    }
